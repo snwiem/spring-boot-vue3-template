@@ -19,6 +19,6 @@ onMounted(() => {
 
 <template>
   <main>
-    <h1>{{ message }}</h1>
+    <h1>XX</h1>
   </main>
 </template>
