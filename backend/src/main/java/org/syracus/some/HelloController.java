@@ -11,7 +11,7 @@ public class HelloController {
 
     @GetMapping(value = { "", "/" })
     public ResponseEntity<String> hello() {
-        return ResponseEntity.ok("Hello from Backend NEWS");
+        return ResponseEntity.ok("Hello from Backend!");
     }
 
 }
